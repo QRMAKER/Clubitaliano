@@ -334,7 +334,7 @@ h4,
 }
 
 .header_area.navbar_fixed .main_menu .navbar {
-    background: #7676ff
+    background: #fff8f7
 }
 
 .header_area.navbar_fixed .main_menu .navbar .nav .nav-item .nav-link {
@@ -446,7 +446,7 @@ h4,
         margin-bottom: 23px
     }
     .header_area .navbar {
-        background: #d1cff4
+        background: #fff8f7
     }
     .header_area .navbar .nav-item.active .nav-link {
         color: #e22104 !important
